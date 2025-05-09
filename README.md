@@ -11,14 +11,14 @@ The report includes multiple sections:
 These pages offer insights into sales trends, top products, geographic performance, and customer behavior.
 
 #### ***Executive Dashboard :***
-![Adventure Works Report Screenshot](Screenshot%202025-04-19%20102720.png)
+![Adventure Works Report Screenshot](Screenshot%202025-05-09%20115026.png)
 
 #### ***Map View :***
-![Adventure Works Map Screenshot](Screenshot%202025-04-19%20103110.png)
+![Adventure Works Map Screenshot](Screenshot%202025-05-09%20115052.png)
 
 #### ***Product Details View :***
-![Adventure Works Product Details Screenshot](Screenshot%202025-04-19%20103124.png)
+![Adventure Works Product Details Screenshot](Screenshot%202025-05-09%20115111.png)
 
 #### ***Customer Details View :***
-![Adventure Works Product Details Screenshot](Screenshot%202025-04-19%20103140.png)
+![Adventure Works Product Details Screenshot](Screenshot%202025-05-09%20115125.png)
 
